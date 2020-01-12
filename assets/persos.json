@@ -1,0 +1,17 @@
+[
+{"name":"perso1", "frame":{"x":0, "y": 317, "width": 25, "height": 29}},
+{"name":"perso2", "frame":{"x":29, "y": 317, "width": 25, "height": 29}},
+{"name":"perso3", "frame":{"x":57, "y": 317, "width": 25, "height": 29}},
+{"name":"perso4", "frame":{"x":85, "y": 317, "width": 25, "height": 29}},
+{"name":"perso5", "frame":{"x":113, "y": 317, "width": 25, "height": 29}},
+{"name":"perso6", "frame":{"x":141, "y": 317, "width": 25, "height": 29}},
+{"name":"perso7", "frame":{"x":169, "y": 317, "width": 25, "height": 29}},
+{"name":"perso8", "frame":{"x":197, "y": 317, "width": 25, "height": 29}},
+{"name":"perso9", "frame":{"x":225, "y": 317, "width": 25, "height": 29}},
+{"name":"perso10", "frame":{"x":253, "y": 317, "width": 25, "height": 29}},
+{"name":"perso11", "frame":{"x":281, "y": 317, "width": 25, "height": 29}},
+{"name":"perso12", "frame":{"x":309, "y": 317, "width": 25, "height": 29}},
+{"name":"perso13", "frame":{"x":337, "y": 317, "width": 25, "height": 29}},
+{"name":"perso14", "frame":{"x":365, "y": 317, "width": 25, "height": 29}},
+{"name":"perso15", "frame":{"x":393, "y": 317, "width": 25, "height": 29}}
+]

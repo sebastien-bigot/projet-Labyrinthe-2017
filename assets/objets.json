@@ -1,0 +1,20 @@
+[
+{"name":"objet1", "frame":{"x":0, "y": 292, "width": 22, "height": 22}},
+{"name":"objet2", "frame":{"x":26, "y": 292, "width": 22, "height": 22}},
+{"name":"objet3", "frame":{"x":51, "y": 292, "width": 22, "height": 22}},
+{"name":"objet4", "frame":{"x":76, "y": 292, "width": 22, "height": 22}},
+{"name":"objet5", "frame":{"x":101, "y": 292, "width": 22, "height": 22}},
+{"name":"objet6", "frame":{"x":126, "y": 292, "width": 22, "height": 22}},
+{"name":"objet7", "frame":{"x":151, "y": 292, "width": 22, "height": 22}},
+{"name":"objet8", "frame":{"x":176, "y": 292, "width": 22, "height": 22}},
+{"name":"objet9", "frame":{"x":201, "y": 292, "width": 22, "height": 22}},
+{"name":"objet10", "frame":{"x":226, "y": 292, "width": 22, "height": 22}},
+{"name":"objet11", "frame":{"x":251, "y": 292, "width": 22, "height": 22}},
+{"name":"objet12", "frame":{"x":276, "y": 292, "width": 22, "height": 22}},
+{"name":"objet13", "frame":{"x":301, "y": 292, "width": 22, "height": 22}},
+{"name":"objet14", "frame":{"x":326, "y": 292, "width": 22, "height": 22}},
+{"name":"objet15", "frame":{"x":351, "y": 292, "width": 22, "height": 22}},
+{"name":"objet16", "frame":{"x":376, "y": 292, "width": 22, "height": 22}},
+{"name":"objet17", "frame":{"x":401, "y": 292, "width": 22, "height": 22}},
+{"name":"objet18", "frame":{"x":426, "y": 292, "width": 22, "height": 22}}
+]

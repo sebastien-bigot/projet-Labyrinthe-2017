@@ -1,0 +1,6 @@
+[
+{"name":"bille1", "frame":{"x":1, "y": 575, "width": 30, "height": 30}},
+{"name":"bille2", "frame":{"x":34, "y": 575, "width": 30, "height": 30}},
+{"name":"bille3", "frame":{"x":67, "y": 575, "width": 30, "height": 30}},
+{"name":"bille4", "frame":{"x":100, "y": 575, "width": 30, "height": 30}}
+]

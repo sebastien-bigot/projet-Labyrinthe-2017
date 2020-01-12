@@ -1,0 +1,5 @@
+[
+{"name":"spider1", "frame":{"x":281, "y": 349, "width": 29, "height": 30}},
+{"name":"spider2", "frame":{"x":313, "y": 349, "width": 29, "height": 30}},
+{"name":"spider3", "frame":{"x":345, "y": 349, "width": 29, "height": 30}}
+]

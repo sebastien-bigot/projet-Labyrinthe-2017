@@ -1,0 +1,5 @@
+[{"name":"tile3_1", "frame":{"x":0, "y": 194, "width": 95, "height": 95}},
+{"name":"tile3_2", "frame":{"x":97, "y": 194, "width": 95, "height": 95}},
+{"name":"tile3_3", "frame":{"x":194, "y": 194, "width": 95, "height": 95}},
+{"name":"tile3_4", "frame":{"x":291, "y": 194, "width": 95, "height": 95}}
+]
